@@ -8,3 +8,5 @@
 ###### [komentorivi.txt](laskarit/viikko1/kometorivi.txt)
 ###### [gitlog.txt](laskarit/viikko1/gitlog.txt)
 Ensi viikkoon!
+
+## Epäsynkroonin testaus
