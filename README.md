@@ -1,7 +1,7 @@
-#Ohjelmistotekniikka 2022
+# Ohjelmistotekniikka 2022
 
-##Laskarit
+## Laskarit
 
-###**Viikko 1**
-*DONE*
+### **Viikko 1**
+#### *DONE*
 
