@@ -1,0 +1,201 @@
+commit efd24ad896cb23e8d3f837b944e3b2c13186da6a
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:36:15 2022 +0200
+
+    Tehtävä 11
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit fa038c1906fe1842d8941fa337c1d3044f945a7f
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:30:12 2022 +0200
+
+    Lisätään 3 tiedostoa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f0533deb264fe2ddaefba2ac3f71d0d60fda79e5
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:28:59 2022 +0200
+
+    reset
+
+ .DS_Store         | Bin 0 -> 6148 bytes
+ files/file1       |   0
+ files/file2       |   0
+ files/file3       |   0
+ tiedostoja/file22 |   0
+ tiedostot/file22  |   0
+ tiedostot/file3   |   0
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 022b58985d6190de48ec1175b5f35da5cca81497
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:18:13 2022 +0200
+
+    Lisätään 3 tiedostoa
+
+ files/file1 | 0
+ files/file2 | 0
+ files/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 458384923ef2328909bdf413a1d94f0749a522a6
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:14:13 2022 +0200
+
+    Tehtävä 11
+
+ tiedostot/file2             | 0
+ tiedostot/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d791013e72ba1908d6b77524521cb6ee5ba1ffea
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:09:34 2022 +0200
+
+    lisätään 3 tiedostoa
+
+ tiedostot/file1 | 0
+ tiedostot/file2 | 0
+ tiedostot/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0a64e4c93472304f766b9b0e91172349f6a79155
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:08:03 2022 +0200
+
+    poisto
+
+ tiedostoja/{file2 => file22} | 0
+ tiedostoja/file3             | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f4a5953bce2e9a9ffe4935a1b1edba93569661f1
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 20:02:49 2022 +0200
+
+    Tehtävä 11
+
+ tiedostoja/file1 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 42625894fe246366be50a6bfd06f5231b87e4f90
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 19:58:41 2022 +0200
+
+    lisätään 3 tiedostoa uudelleen
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ccdb2b3b7459ec49a8d590660f0de35261ccbf40
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 19:58:04 2022 +0200
+
+    poistetaan tiedostot
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ff0898c026ff66e56880f85a45d737435f32af4b
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 19:48:06 2022 +0200
+
+    3 tiedoston lisääminen
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bb59f85bafeab361039655197ceede93c48d6de2
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 19:42:23 2022 +0200
+
+    Muutos eka ja kolmas
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit f58595e7ceee0d552dea43e86b94643c5f3d28c5
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 18:06:54 2022 +0200
+
+    ensimmäisen tiedoston uudelleen nimeäminen
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 25f48895b8d05107b3884e52f19944d1e1184f2d
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 18:05:11 2022 +0200
+
+    toinen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit b2475a7f272617e1a2fc9ae5798a52de7a80c8b0
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 18:02:53 2022 +0200
+
+    tiedosto.txt muokkaus
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit 79a5002015fa8f9eebc651299d0e473990b15808
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 17:55:38 2022 +0200
+
+    neljas.txt lisätty
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0057464792fd8d44467ed114871d591c008f9b59
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 17:54:32 2022 +0200
+
+    muutos toinen ja kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 021623ebd471522a30605e798fdd75250eca1f2a
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 17:53:24 2022 +0200
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ab98a99fb898cb1be7466a1bd8c8806ca01c23c2
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 17:52:31 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit f54e43cf51f2a4e8fa0068f64c39fc94c21a5646
+Author: tompppaaa <thomas.tran@helsinki.fi>
+Date:   Wed Nov 2 17:50:51 2022 +0200
+
+    tiedosto.txt luotu
+
