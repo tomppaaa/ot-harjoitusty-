@@ -33,7 +33,7 @@ Uuden reseptin voi lisätä tai vanhaa reseptiä voi editoida. Molemmista napeis
 Tässä näkymässä voidaan voi lisätä/editoida raaka-aineita. Tässä näkymässä näkyy myös yhteenlasketut makrot. Näkymässä voidaan tallenaa muutokset tai poistaa resepti,
 Josta päästään takaisin näkymään 3. Lisäämällä/editoimalla raaka-ainetta päästään viimeiseen näkymään.
 
-### näkymä 5 Raaka-aineet
+### Näkymä 5 Raaka-aineet
 
 Tässä näkymässä voidaan lisätä/editoida valmiina asetettuihin spekseihin jokin numeraalinen luku. Näkymässä on add tai delete ingridient, jota painamalla sovellus laskee uudelleen reseptin
 speksien summan, jotta näkymässä 4 olisi oikeat yhteenlasketut speksit.
