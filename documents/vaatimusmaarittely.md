@@ -13,7 +13,7 @@ Alkuvaiheessa sovelluksella on ainoastaan yksi käyttäjärooli eli peruskäytt�
 
 Sovellus koostuu viidestä eri näkymästä
 
-![](./kuvat/kayttoliittyma-hahmotelma.png)
+documents/photos/IMG_5675.jpg
 
 ### Näkymä 1 Kirjautuminen
 
