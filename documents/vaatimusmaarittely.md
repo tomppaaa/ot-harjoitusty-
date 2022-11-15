@@ -15,25 +15,25 @@ Sovellus koostuu viidestä eri näkymästä
 
 ![](./kuvat/kayttoliittyma-hahmotelma.png)
 
-# Näkymä 1 Kirjautuminen
+### Näkymä 1 Kirjautuminen
 
 Sovellus aukeaa kirjautumisnäkymään, josta on mahdollista siirtyä uuden käyttäjän luomisnäkymään tai onnistuneen kirjautumisen yhteydessä kirjaantuneen käyttäjän reseptilistaan.
 
-# #Näkymä 2 Käyttäjän luonti
+### Näkymä 2 Käyttäjän luonti
 
 Voidaan luoda uusi käyttäjä ja siihen liitettävä salasana, jonka jälkeen palataan näkymään 1.
 
-# Näkymä 3 Reseptilista
+### Näkymä 3 Reseptilista
 
 Reseptejä on 5 per sivu, sovellus luo uuden sivun joka kuudennella reseptillä. Sivuissa on sama reseptinäkymä, mutta eri reseptit riippuen sivuista. Sivuissa voi navigoida painamalla sivulinkkejä.
 Uuden reseptin voi lisätä tai vanhaa reseptiä voi editoida. Molemmista napeista päästään reseptin editointinäkymään.
 
-# Näkymä 4 Resepti
+### Näkymä 4 Resepti
 
 Tässä näkymässä voidaan voi lisätä/editoida raaka-aineita. Tässä näkymässä näkyy myös yhteenlasketut makrot. Näkymässä voidaan tallenaa muutokset tai poistaa resepti,
 Josta päästään takaisin näkymään 3. Lisäämällä/editoimalla raaka-ainetta päästään viimeiseen näkymään.
 
-# näkymä 5 Raaka-aineet
+### näkymä 5 Raaka-aineet
 
 Tässä näkymässä voidaan lisätä/editoida valmiina asetettuihin spekseihin jokin numeraalinen luku. Näkymässä on add tai delete ingridient, jota painamalla sovellus laskee uudelleen reseptin
 speksien summan, jotta näkymässä 4 olisi oikeat yhteenlasketut speksit.
