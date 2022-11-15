@@ -13,7 +13,7 @@ Alkuvaiheessa sovelluksella on ainoastaan yksi käyttäjärooli eli peruskäytt�
 
 Sovellus koostuu viidestä eri näkymästä
 
-![alt text]([http://url/to/img.png](https://github.com/tomppaaa/ot-harjoitusty-/blob/75084db04f11bfd5912111283f866faeffc53be5/documents/photos/IMG_5675.jpg)
+![alt text]([http://url/to/img.png](https://github.com/tomppaaa/ot-harjoitusty-/blob/75084db04f11bfd5912111283f866faeffc53be5/documents/photos/IMG_5675.jpg))
 
 ### Näkymä 1 Kirjautuminen
 
