@@ -10,3 +10,7 @@
 Ensi viikkoon!
 
 ## Epäsynkroonin testaus
+
+## Määrittelydokumentti
+
+## [vaatimusmaarittely.md](documents/vaatimusmaarittely.md)
