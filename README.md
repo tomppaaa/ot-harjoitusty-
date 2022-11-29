@@ -18,3 +18,5 @@ Ensi viikkoon!
 ## Työaikakirjanpito
 
 ## [tyoaikakijanpito.md](documents/tyoaikakirjanpito.md)
+
+## [arkkitehtuuri.md]laskarit/makro-app/dokumentaatio/arkkitehtuuri.md
