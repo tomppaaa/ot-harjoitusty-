@@ -1,4 +1,4 @@
 
 ##Pakkausrakenne
 
-documents/photos/IMG_5683.jpg
+[IMG_5683.jpg](documents/photos/IMG_5683.jpg)
